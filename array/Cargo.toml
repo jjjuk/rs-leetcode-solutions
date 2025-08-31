@@ -1,0 +1,12 @@
+[package]
+name = "array"
+version = "0.1.0"
+edition = "2024"
+resolver = "3"
+
+[dependencies]
+rand = { workspace = true }
+
+[lib]
+name = "array"
+path = "src/lib.rs"
