@@ -1,4 +1,5 @@
-// https://leetcode.com/problems/valid-sudoku/solutions/7139949/
+// Problem on LeetCode: https://leetcode.com/problems/valid-sudoku
+// Solution on LeetCode: https://leetcode.com/problems/valid-sudoku/solutions/7139949/straight-forward-valid-sudoku/
 
 use std::collections::HashSet;
 
